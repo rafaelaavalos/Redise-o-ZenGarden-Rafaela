@@ -1,0 +1,172 @@
+body {
+    background: #C4C4C4;
+}
+
+.pageHeader {
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#mainTitle {
+    font-family: 'Ruda';
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+    margin-bottom: 60px;
+    margin-left: 200px;
+}
+
+#sampleDownload {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.4);
+    
+    margin-top: 40px;
+    margin-right: 50px;
+}
+
+#pageBody {
+    padding-top: 400px;
+}
+
+.columnaLeft{ 
+    float: left;
+    width: 30%;
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 26px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+    margin-left: 80px;
+
+}
+.columnaRight{
+    float: right;
+    width: 20%;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.9);
+
+    font-family: 'Ruda';
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+    text-align: right;
+}
+
+.links {
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+}
+.columnaCenter{ 
+    display: inline-block;
+    width: 40%;
+    background: rgba(0, 0, 0, 0.5);
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#bodyHeader {
+font-family: Ruda;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 40px;
+
+color: #FFFFFF;
+
+}
+
+.p1 {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 16px;
+
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+.p3 {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+
+    color: #FFFFFF;
+    margin-left: 50%;
+    padding-bottom: 20px;
+}
+.p4 {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+
+    color: rgba(255, 255, 255, 0.6);
+
+    margin-left: 50%;
+    padding-bottom: 20px;
+}
+
+.navBar {
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 20px;
+
+    color: #FFFFFF;
+    margin-left: 60px;
+}
+
+#menuActive {
+    margin-left: 30px;
+
+    border-bottom-color: #FFFFFF;
+    border-bottom-width: 1px;
+}
+#menu {
+    margin-left: 30px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+#pageFooter {
+
+    font-family: Ruda;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: right;
+
+    color: rgba(0, 0, 0, 0.7);
+    padding-top: 100px;
+    margin-right: 50px;
+}
+
+#footerText {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
